@@ -1,0 +1,6 @@
+Revision history for Perl extension Text::Portuguese.
+
+0.01  Sun Jan 26 02:33:08 2003
+	- original version; created by h2xs 1.21 with options
+		-XA Text::Portuguese
+
